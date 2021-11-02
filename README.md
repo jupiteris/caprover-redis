@@ -1,0 +1,1 @@
+deploy redis on caprover
